@@ -133,6 +133,7 @@
                     <version>${gmaven.version}</version>
                     <configuration>
                         <providerSelection>2.0</providerSelection>
+                        <invokeDynamic>true</invokeDynamic>
                         <source />
                     </configuration>
                     <dependencies>
